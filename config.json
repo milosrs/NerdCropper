@@ -1,0 +1,19 @@
+{
+    "leftEdgeMargin": 15,
+    "rightEdgeMargin": 15,
+    "lanesNumber": 1,
+    "bandSize": 256,
+    "topEdgeMargin": 10,
+    "bottomEdgeMargin": 10,
+    "laneOffset": 60,
+    "xAxisMaxJitter": 40,
+    "minPrintOffset": 10,
+    "maxPrintOffset": 50,
+    "minPrintStrength": 50,
+    "maxPrintStrength": 100,
+    "bandDefinitions" : [
+        {
+            "0": ["((x^2)/2) + ((y^2)/2) - 1", "UNDER"]
+        }
+    ]
+}
