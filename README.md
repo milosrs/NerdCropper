@@ -1,29 +1,10 @@
-# README #
+# NERD CROPPER #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This project uses mathematical functions like `x^2 + 2x + 5`, `sin(x)`, `cos(x)` to generate images using a Simplex Noise function.
 
-### What is this repository for? ###
+# How to run # 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+There's a config file in which you should provide number of `lanes` or `columns`. Number of `lanes` should match the number of `functions` used to generate the image.
+Look through the config file, tweak it, and see what happens.
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+If you have any questions, open an issue.
